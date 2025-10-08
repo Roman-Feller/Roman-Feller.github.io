@@ -1,10 +1,8 @@
 <div style="overflow: hidden;">
 
-  <img src="pictures/me.jpg" alt="Roman-Feller" style="width: 150px; float: right; margin-left: 20px;">
+  <img src="pictures/me.jpg" alt="Roman-Feller" style="width: 180px; float: right; margin-left: 20px;">
 
-  <h1>Roman Feller</h1>
-
-  I am a PhD student at TU Wien supervised by [Michael Pinsker](https://dmg.tuwien.ac.at/pinsker/) working in the ERC Synergy Grant [POCOCOP](https://www.pococop.eu).
+I am a PhD student at TU Wien supervised by [Michael Pinsker](https://dmg.tuwien.ac.at/pinsker/) working in the ERC Synergy Grant [POCOCOP](https://www.pococop.eu).
 
 </div>
 

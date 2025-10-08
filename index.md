@@ -1,6 +1,6 @@
 <div style="overflow: auto;">
 
-  <img src="images/roman_feller.jpg" alt="Roman Feller" style="width: 150px; border-radius: 50%; float: right; margin-left: 20px; margin-bottom: 10px;">
+  <img src="pictures/me.jpg" alt="Roman Feller" style="width: 150px; border-radius: 50%; float: right; margin-left: 20px; margin-bottom: 10px;">
 
 # Roman Feller
 

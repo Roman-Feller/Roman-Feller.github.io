@@ -1,3 +1,4 @@
-# Welcome to My Website
+title: Marcy McMarcface
+---
 
-This is the homepage. Built with GitHub Pages and Markdown!
+# Marcy McMarcface

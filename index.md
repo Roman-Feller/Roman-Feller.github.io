@@ -11,8 +11,7 @@ I am a PhD student at TU Wien supervised by [Michael Pinsker](https://dmg.tuwien
 
 ## Publications
 
-* An algebraic proof of the graph orientation problem dichotomy for forbidden tournaments [[arxiv]](https://arxiv.org/pdf/2405.20263)<br>
-  (with M. Pinsker)<br>
+* *An algebraic proof of the graph orientation problem dichotomy for forbidden tournaments* [[arxiv]](https://arxiv.org/pdf/2405.20263) (with M. Pinsker)<br>
   SIAM Journal on Discrete Mathematics, accepted
 
 ## Talks

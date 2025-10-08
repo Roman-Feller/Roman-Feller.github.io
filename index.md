@@ -17,4 +17,9 @@ I am a PhD student at TU Wien supervised by [Michael Pinsker](https://dmg.tuwien
 
 ## Events
 
+| Date       | Title            |
+|------------|------------------|
+| Oct 2024   | *Title of Talk 1* |
+| Sep 2–24   | *Title of Talk 2* |
+| Jan 2030   | *Another Talk*    |
 

@@ -11,4 +11,4 @@ I am a PhD student at TU Wien supervised by [Michael Pinsker](https://dmg.tuwien
 
 ## Talks
 
-* 15 Oct 2024 *Graph orientation problems with forbidden tournaments* at [PALS](https://math.colorado.edu/algebralogic/)
+* 15 Oct 2024 *Graph orientation problems with forbidden tournaments* at [PALS](https://math.colorado.edu/algebralogic/), online [[slides]](pdf-file)

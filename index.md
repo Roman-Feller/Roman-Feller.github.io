@@ -8,7 +8,8 @@ Since October 2023 I am a PhD student supervised by <a href="https://dmg.tuwien.
 
 My research interest lie in infinite domain constraint satisfaction problems and related questions in model-theory, Ramsey theory.<br>
 
-My 
+Mail: firstname.lastname@tuwien.ac.at
+
 </div>
 
 

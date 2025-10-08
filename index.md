@@ -25,4 +25,3 @@
 * *The graph orientation problem for forbidden tournaments* at Forschungsseminar der Algebra-Gruppe, TU Wien <span style="color: #888888;">(Jun 2024)</span>
 
 ## Events
-

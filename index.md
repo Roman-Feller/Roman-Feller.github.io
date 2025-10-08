@@ -4,8 +4,9 @@
 
   <img src="pictures/me.jpg" alt="Roman-Feller" style="width: 180px; float: right; margin-left: 10px;">
 
-I am a PhD student at TU Wien supervised by <a href="https://dmg.tuwien.ac.at/pinsker/">Michael Pinsker</a> working in the ERC Synergy Grant <a href="https://www.pococop.eu">POCOCOP</a>.
+Since Octobre 2023 I am a PhD student at TU Wien supervised by <a href="https://dmg.tuwien.ac.at/pinsker/">Michael Pinsker</a> working in the ERC Synergy Grant <a href="https://www.pococop.eu">POCOCOP</a>.
 
+My research interest lie in infinite domain constraint satisfaction problems and related questions in model-theory, Ramsey theory. 
 </div>
 
 

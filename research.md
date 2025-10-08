@@ -1,7 +1,7 @@
-# Publications 
+## Publications 
 
-# Thesis
+## Thesis
 
-# Supervised Thesis
+## Supervised Thesis
 
-# Recent Events
+## Recent Events

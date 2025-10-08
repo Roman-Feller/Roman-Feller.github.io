@@ -11,15 +11,9 @@ I am a PhD student at TU Wien supervised by [Michael Pinsker](https://dmg.tuwien
 
 ## Talks
 
-* Oct 2024 &nbsp; *Graph orientation problems with forbidden tournaments* at [PALS](https://math.colorado.edu/algebralogic/), online [[slides]](slides/PALS_2024)
-* Jul 2024 &nbsp; *A complexity dichotomy for graph orientation problems* at [Midsummer Combinatorial Workshop XXIX](https://www.mff.cuni.cz/en/kam/events/mcw/mcw-2024), Prague [[slides]](slides/MCW_2024)
-* Jun 2024 &nbsp; *The graph orientation problem for forbidden tournaments* at Forschungsseminar der Algebra-Gruppe, TU Wien
+* *Graph orientation problems with forbidden tournaments* at [PALS](https://math.colorado.edu/algebralogic/), online [[slides]](slides/PALS_2024) (Oct 2024)
+* *A complexity dichotomy for graph orientation problems* at [Midsummer Combinatorial Workshop XXIX](https://www.mff.cuni.cz/en/kam/events/mcw/mcw-2024), Prague [[slides]](slides/MCW_2024) (Jul 2024)
+*  &nbsp; *The graph orientation problem for forbidden tournaments* at Forschungsseminar der Algebra-Gruppe, TU Wien (Jun 2024)
 
 ## Events
-
-| Date       | Title            |
-|------------|------------------|
-| Oct 2024   | *Title of Talk 1* |
-| Sep 2–24   | *Title of Talk 2* |
-| Jan 2030   | *Another Talk*    |
 

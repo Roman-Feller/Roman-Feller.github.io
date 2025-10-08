@@ -8,7 +8,7 @@
 
 <p>My research interest lie in infinite domain constraint satisfaction problems and related questions in model-theory and Ramsey theory.</p>
 
-<p>Mail: firstname.lastname@tuwien.ac.at </p>
+<p><bold>Mail:</bold> firstname.lastname@tuwien.ac.at </p>
 
 </div>
 

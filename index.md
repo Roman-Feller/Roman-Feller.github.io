@@ -1,6 +1,6 @@
 <div style="overflow: hidden;">
 
-  <img src="pictures/me.jpg" alt="Roman-Feller" style="width: 150px; float: right; margin-left: 20px; border-radius: 50%;">
+  <img src="pictures/me.jpg" alt="Roman-Feller" style="width: 150px; float: right; margin-left: 20px;">
 
   <h1>Roman Feller</h1>
 

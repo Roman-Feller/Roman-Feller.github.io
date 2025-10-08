@@ -4,7 +4,7 @@
 
   <img src="pictures/me.jpg" alt="Roman-Feller" style="width: 180px; float: right; margin-left: 10px;">
 
-<p>Since October 2023 I am a PhD student supervised by <a href="https://dmg.tuwien.ac.at/pinsker/">Michael Pinsker</a> working in the ERC Synergy Grant <a href="https://www.pococop.eu">POCOCOP</a> at TU Wien. I obtained my master in mathematics from the University of Bonn where I wrote my thesis with <a href="https://www.math.uni-bonn.de/people/phierony/">Philipp Hieronymi</a>. </p>
+<p>Since October 2023 I am a PhD student supervised by <a href="https://dmg.tuwien.ac.at/pinsker/">Michael Pinsker</a> working in the ERC Synergy Grant <a href="https://www.pococop.eu">POCOCOP</a> at TU Wien. I obtained my master in mathematics from the University of Bonn where I wrote my <a href="thesis/MasterThesis.pdf" target="_blank">thesis</a> with <a href="https://www.math.uni-bonn.de/people/phierony/">Philipp Hieronymi</a>. </p>
 
 <p>My research interest lie in infinite domain constraint satisfaction problems and related questions in model-theory, Ramsey theory.</p>
 
